@@ -1,6 +1,6 @@
 # 🌳 Decision Tree Visualizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://decision-tree-from-scratch.onrender.com/)
 
 An interactive web application for building, visualizing, and analyzing decision tree classifiers with customizable parameters and multiple visualization options.
 
